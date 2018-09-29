@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1521569035 source:c:\users\akola mbey denis\desktop\programming_lab\c++programming\project_files\banking_system_design_and_implemenetation\main.cpp
+	<iostream>
+	<iomanip>
+	"bankAccount.h"
+	"checkingAccount.h"
+	"serviceChargeChecking.h"
+
+1521570685 c:\users\akola mbey denis\desktop\programming_lab\c++programming\project_files\banking_system_design_and_implemenetation\include\bankaccount.h
+	<iostream>
+	<string>
+
+1521559943 source:c:\users\akola mbey denis\desktop\programming_lab\c++programming\project_files\banking_system_design_and_implemenetation\src\bankaccount.cpp
+	"bankAccount.h"
+	<iostream>
+	<string>
+
+1521559319 source:c:\users\akola mbey denis\desktop\programming_lab\c++programming\project_files\banking_system_design_and_implemenetation\src\checkingaccount.cpp
+	"checkingAccount.h"
+	<iostream>
+	"bankAccount.h"
+
+1521561587 c:\users\akola mbey denis\desktop\programming_lab\c++programming\project_files\banking_system_design_and_implemenetation\include\checkingaccount.h
+	<iostream>
+	"bankAccount.h"
+
+1521568968 source:c:\users\akola mbey denis\desktop\programming_lab\c++programming\project_files\banking_system_design_and_implemenetation\src\servicechargechecking.cpp
+	"serviceChargeChecking.h"
+	"checkingAccount.h"
+	<iostream>
+	<iomanip>
+	"bankAccount.h"
+
+1521568415 c:\users\akola mbey denis\desktop\programming_lab\c++programming\project_files\banking_system_design_and_implemenetation\include\servicechargechecking.h
+	"checkingAccount.h"
+	<iostream>
+	"bankAccount.h"
+
+1538058332 source:e:\my_files\programming_lab\c++\c++programming\project_files\banking_system_design_and_implemenetation\main.cpp
+	<iostream>
+	<iomanip>
+	"bankAccount.h"
+	"checkingAccount.h"
+	"serviceChargeChecking.h"
+	"noServiceChargeChecking.h"
+
+1538059465 e:\my_files\programming_lab\c++\c++programming\project_files\banking_system_design_and_implemenetation\include\bankaccount.h
+	<iostream>
+	<string>
+
+1538058628 e:\my_files\programming_lab\c++\c++programming\project_files\banking_system_design_and_implemenetation\include\checkingaccount.h
+	<iostream>
+	"bankAccount.h"
+
+1521568415 e:\my_files\programming_lab\c++\c++programming\project_files\banking_system_design_and_implemenetation\include\servicechargechecking.h
+	"checkingAccount.h"
+	<iostream>
+	"bankAccount.h"
+
+1538058829 source:e:\my_files\programming_lab\c++\c++programming\project_files\banking_system_design_and_implemenetation\src\checkingaccount.cpp
+	"checkingAccount.h"
+	<iostream>
+	"bankAccount.h"
+
+1521568968 source:e:\my_files\programming_lab\c++\c++programming\project_files\banking_system_design_and_implemenetation\src\servicechargechecking.cpp
+	"serviceChargeChecking.h"
+	"checkingAccount.h"
+	<iostream>
+	<iomanip>
+	"bankAccount.h"
+
+1538058628 source:e:\my_files\programming_lab\c++\c++programming\project_files\banking_system_design_and_implemenetation\src\bankaccount.cpp
+	"bankAccount.h"
+	<iostream>
+	<string>
+
+1538057939 source:e:\my_files\programming_lab\c++\c++programming\project_files\banking_system_design_and_implemenetation\src\noservicechargechecking.cpp
+	"serviceChargeChecking.h"
+	"checkingAccount.h"
+	<iostream>
+	<iomanip>
+	"bankAccount.h"
+	"noServiceChargeChecking.h"
+
+1538057588 e:\my_files\programming_lab\c++\c++programming\project_files\banking_system_design_and_implemenetation\include\noservicechargechecking.h
+	"serviceChargeChecking.h"
+	"checkingAccount.h"
+	<iostream>
+	<iomanip>
+	"bankAccount.h"
+
